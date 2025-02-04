@@ -93,5 +93,4 @@
 ✅ **Diagram UML** membantu kita memahami struktur dan interaksi dalam sistem.
 ✅ Dengan **use case dan sequence diagram**, kita dapat melihat bagaimana **aktor berinteraksi** dengan sistem.
 
-🚀 _Dibuat dengan ❤️ untuk dokumentasi sistem yang lebih baik!_ 🎯
 
