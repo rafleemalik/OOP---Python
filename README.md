@@ -1,8 +1,8 @@
 # OOP - Python
 
-# Laporan OOP - Python
+Laporan OOP - Python
 
-# Raflee Caesar Dano Malik
+Raflee Caesar Dano Malik
 
 1. Konsep dasar dari "OOP Python"
    https://excalidraw.com/#json=r0VKx_UtNLWSoVpxq-gVS,y5ArYLs3WR5GO1zCOSO-XA
