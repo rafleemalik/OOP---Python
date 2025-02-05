@@ -86,6 +86,10 @@
 🔹 **3️⃣ Menghitung Gaji Tahunan**
    - Sistem memanggil `get_annual_salary()` untuk **menghitung total gaji tahunan**.
 
+## 🔹 5. CLI Apps dari "OOP Python"
+  <img width="580" alt="Screen Shot 2025-02-05 at 08 52 59" src="https://github.com/user-attachments/assets/9e0b75d5-6404-4c28-90cb-00430596f99f" />
+
+
 ---
 
 
