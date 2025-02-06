@@ -13,7 +13,9 @@
 ---
 
 ## 🔹 2. Class Diagram dari "OOP Python"
-![Class Diagram OOP](https://github.com/user-attachments/assets/326e5491-9bdb-4bad-be47-a9bd13a041d8)
+![Class Diagram OOP]
+<img width="1533" alt="Screen Shot 2025-02-06 at 06 56 55" src="https://github.com/user-attachments/assets/f0e5a9ac-0124-4af2-ab4c-fc9a8c649e7b" />
+
 
 ### 📌 **Struktur Kelas Employee**
 💠 **Kelas Employee** _(Superclass)_
